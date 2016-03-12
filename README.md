@@ -16,7 +16,7 @@ setting execute permissions
 2.chmod u+x cset_Show.sh
 3.chmod u+x cset_reset.sh
 
-for execute :
+for  create cpusets you have to execute
 
 1. ./csetmonitor_test 23 (pass any number as arguments)
 
