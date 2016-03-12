@@ -25,7 +25,9 @@ for sol 1 :
  
  it shows the output.
 
-3. ./cset_reset.sh
+for sol2 :
+
+ ./cset_reset.sh
 
    it only reset the content of a file .For viewing the output , run ./cset_show.sh
   
