@@ -11,6 +11,6 @@ Q2. Replace the contents of all .cpus files with the content of  /sys/fs/cgroup/
 
 Ans cset_reset.sh
 
-Note: Solution can be written on any programming language
+Note: Solution can be written in any programming language
 
 My solutions are written in  bash script

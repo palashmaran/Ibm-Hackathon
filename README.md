@@ -5,15 +5,20 @@ Solution of first two tasks of Hackathon
 Tasks  are available in questions.txt file 
 
 solutions are written in bash script
+
 sol1 : cset_show.sh
+
 sol2 : cset_reset.sh
 
 
 Steps to execute :
 
 setting execute permissions
+
 1.chmod u+x csetmonitor_test 
+
 2.chmod u+x cset_Show.sh
+
 3.chmod u+x cset_reset.sh
 
 for  create cpusets you have to execute
